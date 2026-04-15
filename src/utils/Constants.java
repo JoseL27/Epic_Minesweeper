@@ -2,7 +2,7 @@ package utils;
 
 
 public class Constants {
-    public static final String RESOURCES_PATH = "/home/jose/dev/Buscaminas/Buscaminas/resources";
+    public static final String RESOURCES_PATH = "/home/jose/dev/Epic_Minesweeper/Buscaminas/resources/";
     public static final int TICKS_PER_SECOND = 30;
     public static final int SCREEN_WIDTH = 1920;
     public static final int SCREEN_HEIGHT = 1080;
